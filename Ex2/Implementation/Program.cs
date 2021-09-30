@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Implementation
 {
@@ -7,6 +8,14 @@ namespace Implementation
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            var psw = new PasswordChecker(6,
+            new List<char>() {
+                '&', '!', '#', '$', '%', '\'', '*', '+', '-', '/', '=', '?', '^', '_', '`', '{', '|', '}', '~', '.'
+            });
+
+            psw.IsValid("Pass#.");
+
         }
     }
 }

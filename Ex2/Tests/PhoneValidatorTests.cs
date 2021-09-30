@@ -1,5 +1,5 @@
+using Implementation;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using PSP_LW1;
 
 namespace PSP_LW1_UnitTests
 {
@@ -16,7 +16,7 @@ namespace PSP_LW1_UnitTests
 
             var result = _passwordChecker.IsValid(phone);
 
-            Assert.IsFalse(result);
+            Assert.IsTrue(result);
         }
         [TestMethod]
         public void IsValid_ValidWithShortcutPrefix_Incorrect()
@@ -25,7 +25,7 @@ namespace PSP_LW1_UnitTests
 
             var result = _passwordChecker.IsValid(phone);
 
-            Assert.IsFalse(result);
+            Assert.IsTrue(result);
         }
 
         [TestMethod]

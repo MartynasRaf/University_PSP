@@ -1,5 +1,5 @@
+using Implementation;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using PSP_LW1;
 using System.Collections.Generic;
 
 namespace PSP_LW1_UnitTests
@@ -37,7 +37,7 @@ namespace PSP_LW1_UnitTests
         [TestMethod]
         public void IsValid_ExactRightLength_Correct()
         {
-            var password = "Passw.";
+            var password = "Pass#.";
 
             var result = _passwordChecker.IsValid(password);
 

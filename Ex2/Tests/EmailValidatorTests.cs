@@ -1,6 +1,7 @@
+using Implementation;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using PSP_LW1;
 using System.Collections.Generic;
+
 
 namespace PSP_LW1_UnitTests
 {
@@ -19,7 +20,7 @@ namespace PSP_LW1_UnitTests
 
         public EmailValidatorTests()
         {
-            _emailValidator = new EmailValidator(_specialChars, _invalidChars);
+            _emailValidator = new EmailValidator(_invalidChars, _specialChars);
         }
 
         [TestMethod]
