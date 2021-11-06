@@ -1,0 +1,152 @@
+{
+  "format": 1,
+  "restore": {
+    "M:\\Worktable\\Uni\\III\\PSP\\Ex3\\PSPLibrary.Tests\\PSPLibrary.Tests.csproj": {}
+  },
+  "projects": {
+    "M:\\Worktable\\Uni\\III\\PSP\\Ex3\\PSPLibrary.Tests\\PSPLibrary.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "M:\\Worktable\\Uni\\III\\PSP\\Ex3\\PSPLibrary.Tests\\PSPLibrary.Tests.csproj",
+        "projectName": "PSPLibrary.Tests",
+        "projectPath": "M:\\Worktable\\Uni\\III\\PSP\\Ex3\\PSPLibrary.Tests\\PSPLibrary.Tests.csproj",
+        "packagesPath": "C:\\Users\\mrafa\\.nuget\\packages\\",
+        "outputPath": "M:\\Worktable\\Uni\\III\\PSP\\Ex3\\PSPLibrary.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mrafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "M:\\Worktable\\Uni\\III\\PSP\\Ex3\\PSPLibrary\\PSPLibrary.csproj": {
+                "projectPath": "M:\\Worktable\\Uni\\III\\PSP\\Ex3\\PSPLibrary\\PSPLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "M:\\Worktable\\Uni\\III\\PSP\\Ex3\\PSPLibrary\\PSPLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "M:\\Worktable\\Uni\\III\\PSP\\Ex3\\PSPLibrary\\PSPLibrary.csproj",
+        "projectName": "PSPLibrary",
+        "projectPath": "M:\\Worktable\\Uni\\III\\PSP\\Ex3\\PSPLibrary\\PSPLibrary.csproj",
+        "packagesPath": "C:\\Users\\mrafa\\.nuget\\packages\\",
+        "outputPath": "M:\\Worktable\\Uni\\III\\PSP\\Ex3\\PSPLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mrafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

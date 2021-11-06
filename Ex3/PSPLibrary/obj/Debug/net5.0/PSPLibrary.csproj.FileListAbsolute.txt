@@ -1,0 +1,13 @@
+M:\Worktable\Uni\III\PSP\Ex3\PSPLibrary\obj\Debug\net5.0\PSPLibrary.csprojAssemblyReference.cache
+M:\Worktable\Uni\III\PSP\Ex3\PSPLibrary\obj\Debug\net5.0\PSPLibrary.GeneratedMSBuildEditorConfig.editorconfig
+M:\Worktable\Uni\III\PSP\Ex3\PSPLibrary\obj\Debug\net5.0\PSPLibrary.AssemblyInfoInputs.cache
+M:\Worktable\Uni\III\PSP\Ex3\PSPLibrary\obj\Debug\net5.0\PSPLibrary.AssemblyInfo.cs
+M:\Worktable\Uni\III\PSP\Ex3\PSPLibrary\obj\Debug\net5.0\PSPLibrary.csproj.CoreCompileInputs.cache
+M:\Worktable\Uni\III\PSP\Ex3\PSPLibrary\bin\Debug\net5.0\PSPLibrary.dll.config
+M:\Worktable\Uni\III\PSP\Ex3\PSPLibrary\bin\Debug\net5.0\PSPLibrary.deps.json
+M:\Worktable\Uni\III\PSP\Ex3\PSPLibrary\bin\Debug\net5.0\PSPLibrary.dll
+M:\Worktable\Uni\III\PSP\Ex3\PSPLibrary\bin\Debug\net5.0\ref\PSPLibrary.dll
+M:\Worktable\Uni\III\PSP\Ex3\PSPLibrary\bin\Debug\net5.0\PSPLibrary.pdb
+M:\Worktable\Uni\III\PSP\Ex3\PSPLibrary\obj\Debug\net5.0\PSPLibrary.dll
+M:\Worktable\Uni\III\PSP\Ex3\PSPLibrary\obj\Debug\net5.0\ref\PSPLibrary.dll
+M:\Worktable\Uni\III\PSP\Ex3\PSPLibrary\obj\Debug\net5.0\PSPLibrary.pdb

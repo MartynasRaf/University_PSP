@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mrafa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mrafa\\.nuget\\packages"
+    ]
+  }
+}
